@@ -1,4 +1,12 @@
-### Hi there 👋
+### What's up!
+I'm Alexandr, the student of SPbPU, 1st course.
+
+This is my studiyng account. Probably, it will be used not only for educational purpouses.
+
+Now I'm learning python language and improving my programming skills.
+
+Contacts: via Direction of university.
+
 
 <!--
 **userOfPC/userOfPC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
