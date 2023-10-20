@@ -6,7 +6,6 @@
   
   Now I'm learning python language and improving my programming skills.🔭
   
-  Contacts: via Direction of university.
 
 
 <!--
