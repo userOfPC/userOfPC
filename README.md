@@ -1,10 +1,4 @@
-### What's up!
 
-  I'm Alexandr, the student of SPbPU, 1st course.
-  
-  This is my studiyng account. Probably, it will be used not only for educational purpouses.
-  
-  Now I'm learning python language and improving my programming skills.🔭
   
 
 
